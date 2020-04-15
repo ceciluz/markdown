@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project has the main objective of help me to study the react and properties by copying, cloning or doing pratical projects.
+Original project by: https://medium.com/@benjaminadk/build-a-markdown-previewer-96af2622dd9a;
 
 ## Available Scripts
 
